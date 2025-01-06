@@ -1,0 +1,151 @@
+@media only screen and (max-width: 380px){
+    .nav{
+        display: none;
+       }
+
+       .header-container {
+        width: 90%;
+       }
+
+       .logo{
+        font-size: 22px;
+       }
+       .banner-container{
+        width: 90%;
+        grid-template-columns: 1fr;
+       }
+
+       .text h1{
+        font-size: 30px;
+       }
+       .text h3{
+        font-size: 20px;
+       }
+       .text button{
+        padding: 6px 12px;
+       }
+       .info-img-container {
+        width: 90%;
+        grid-template-columns: 1fr 1fr;
+    } 
+    .about-container {
+        width: 90%;
+        grid-template-columns: 1fr;
+    }
+    #about h3{
+        font-size: 25px;
+    }
+    .why-us-container {
+        width: 90%;
+        grid-template-columns: 1fr;
+    }
+    .why-text h3{
+        font-size: 22px;
+    }
+    .why-text p{
+        font-size: 14px;
+    }
+    .why-text ul li {
+        padding: 5px 7px;
+        font-size: 11px;
+    }
+    .why-text ul li span{
+        font-size: 14px;
+    }
+    .skill-container {
+        width: 90%;
+        grid-template-columns: 1fr;
+    }
+    .skill-text h3{
+        font-size: 24px;
+    }
+    .skill-text p {
+        font-size: 12px;
+    }
+    .bar h4{
+        font-size: 13px;
+    border-bottom: 5px solid #37517e;
+    }
+    .bar h5{
+        font-size: 12px;
+    padding-left: 88px 
+    }
+    .service-container {
+        width: 90%;
+        
+    }
+    .service-grid{
+        grid-template-columns: 1fr 1fr;
+    }
+    .service-heading h2{
+        font-size: 25px;
+    }
+    .service-heading p{
+        font-size: 12px;
+    }
+    .cta-container {
+        width: 90%;
+        grid-template-columns: 1fr;
+    }
+    .cta-info h3{
+        font-size: 25px;
+        text-align: center;
+    }
+    .cta-info p{
+        font-size: 12px;
+        text-align: center;
+    }
+    .cta-btn a button{
+        float: none;
+    }
+    .team-container{
+        width: 90%;
+        
+    }
+    .team-grid{
+        margin-left: 24px;
+        grid-template-columns: 1fr ;
+    }
+    .team-heading p{
+        font-size: 12px;
+    }
+
+    .pricing-cotainer{
+        width: 90%;
+        grid-template-columns: 1fr;
+    }
+
+    .pricing-grid{
+        grid-template-columns: 1fr;
+    }
+    .faq-container {
+        width: 90%;
+    }
+    .contact-heading{
+        width: 90%;
+    }
+    .contact-container{
+        width: 90%;
+        grid-template-columns: 1fr;
+    }
+
+    .footer-container {
+        width: 90%;
+    }
+
+    .footer-top-container{
+        width: 90%;
+        grid-template-columns: 1fr;
+    }
+
+
+
+
+
+
+
+
+
+
+
+}
